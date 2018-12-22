@@ -5,5 +5,5 @@ I want to grow more confident in using JavaScript so I'm returning to some previ
 
 With this simple todo app you can add new list items, delete single items or the whole list, and save the list to local storare. The UI is built with materialize css. 
 
-# next steps
+### next steps
 add checkboxes and animation for when items are checked off the list.
